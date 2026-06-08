@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.log
+local_data/
+00_Raw_data_2026/
